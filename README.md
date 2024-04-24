@@ -11,7 +11,7 @@
 </div>
 
 ###
-<h5 align="right">What Going On</h5>
+<h5 align="right">What's Going On</h5>
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0dzZ6aDg4cXY3YnR1c3ZqMmtxcXl3NGdsd2M3M2Fzb2FlbWhjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DJ3QbhSlLlvxyAmgcA/giphy.gif" />
 
 ###
