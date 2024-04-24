@@ -11,8 +11,12 @@
 </div>
 
 ###
+<h5 align="right">What Going On</h5>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0dzZ6aDg4cXY3YnR1c3ZqMmtxcXl3NGdsd2M3M2Fzb2FlbWhjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DJ3QbhSlLlvxyAmgcA/giphy.gif" />
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGs5Z3U2Z2w0N3Fjdno2YnRkZW92M240aDM0eWNsM2RnZGNhNnFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
+###
+<h5>Socials and Fun in Life</h5>
+<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhNXR4M3RrNm5rNTFnY2xkYXI3djB5bGl1bnl0YmNiMDFpNnJtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif"/>
 
 ###
 
