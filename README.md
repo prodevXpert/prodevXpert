@@ -48,6 +48,9 @@
   <a href='https://www.linkedin.com/in/muhammad-shakir-0b6b72214/' target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href='https://dev.to/prodevxpert' target="_blank">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
